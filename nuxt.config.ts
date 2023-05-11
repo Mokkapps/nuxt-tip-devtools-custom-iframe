@@ -17,7 +17,7 @@ export default defineNuxtConfig({
           // iframe view
           view: {
             type: 'iframe',
-            src: 'https://browser-doom.io/?page=game&game=doom&profile=Doom%20(Shareware',
+            src: 'https://silentspacemarine.com/',
           },
         });
       });
